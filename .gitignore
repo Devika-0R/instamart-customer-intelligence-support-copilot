@@ -1,0 +1,21 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+data/instamart.db
+state/*.json
+
+# Generated data and outputs
+data/raw/
+data/clean/
+data/instamart.db
+notebooks/data/
+outputs/
+
+# Editor and Python environment
+.vscode/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
